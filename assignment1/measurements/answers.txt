@@ -1,0 +1,23 @@
+2)    Predicted throughput:25.637095 MBps
+      Predicted latency:128 ms
+      Actual throughput:24.564823 Mbps
+      Actual latency:128.218 ms
+      Explanation of results:Latency will be the sum of latencies of the path from h1 to h10 and the throughput will be the minimum throughput of the links involved
+
+3.1)  Predicted throughput:25.423685 Mbps
+      Predicted latency:128 ms
+      Actual throughput:25.356489 Mbps
+      Actual latency:128.053 ms
+      Explanation of results:The answer predicted almost tallies with actual results. Similar to above
+
+3.2)  Predicted throughput:25.235897 Mbps
+      Predicted latency:128 ms
+      Actual throughput:25.456875 Mbps
+      Actual latency:128.709 ms
+      Explanation of results:The answer predicted almost tallies with actual results. Similar to above
+
+4)    Predicted throughput: 25.226486 Mbps
+      Predicted latency:80 ms
+      Actual throughput:25.00156 Mbps
+      Actual latency:80.6315 ms
+      Explanation of results: The answer predicted almost tallies with actual results. Similar to above

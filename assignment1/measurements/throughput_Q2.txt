@@ -1,0 +1,1 @@
+sent=64358KB, rate=24.564823Mbps
